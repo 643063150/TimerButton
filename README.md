@@ -3,7 +3,7 @@
 
 ##效果图
 
-!{img}(https://github.com/SmallLee/TimerButton/blob/master/GIF.gif)
+![img](https://github.com/SmallLee/TimerButton/blob/master/GIF.gif)
 
 ##使用
 1.布局文件
